@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="ActivityPlanner.js"></script>
+    <link rel="stylesheet" href="ActivityPlanner.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap" rel="stylesheet">
+</head>
+
+<body style="margin: 0;">
+  <div class="center-container">
+
+    <div class="button-container">
+      <button class="add activity-button" onclick="{addActivity()}">Add Activity</button>
+      <button class="remove activity-button" onclick="{removeActivity()}">Remove Activity</button>
+    </div>
+
+    <div class="activity-list-container">
+      <div class="activity-list-title-container">
+        <h1>Aktiviteter</h1>
+        <div class="line"></div>
+      </div>
+      <div id="activity-list"></div>
+    </div>
+
+    <div id="activities-container" class="activities-container">
+    </div>
+
+  </div>
+</body>
