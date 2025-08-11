@@ -1,0 +1,42 @@
+{
+  "Card Games": [
+    "UNO",
+    "Poker",
+    "Vänd Tia",
+    "Cirkus",
+    "Bubblan"
+  ],
+  "Video Games": [
+    "Mario cart",
+    "Duck game",
+    "Counter Strike 2",
+    "Pummel Party",
+    "Left 4 Dead",
+    "Golf it",
+    "Gartic Phone",
+    "Drawful 2"
+  ],
+  "Sport": [
+    "Pingis",
+    "Rövdunk",
+    "Stress",
+    "7-Up",
+    "Discgolf",
+    "Volleyboll",
+    "Fiska",
+    "Fotboll",
+    "Basket"
+  ],
+  "Drinking Games": [
+    "Beerpong",
+    "Ring of Fire",
+    "Bussen",
+    "Pyramiden",
+    "Trav"
+  ],
+  "Other": [
+    "Kubb",
+    "Restaurang",
+    "Grilla"
+  ]
+}
